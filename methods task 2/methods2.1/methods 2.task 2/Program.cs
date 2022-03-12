@@ -26,7 +26,7 @@ Repeat("Ha!", 3) //Ha!Ha!Ha! */
         {
             
 
-            for (int i = 0; i < count; i++)
+            for (int i = 1; i < count; i++)
             {
                 
                  Console.Write(word);

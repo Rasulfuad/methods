@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fuad\\Desktop\\methods task 2\\methods2.1\\method 2 task 3\\method 2 task 3.csproj",
+      "projectUniqueName": "C:\\Users\\fuad\\Desktop\\methods\\methods task 2\\methods2.1\\method 2 task 3\\method 2 task 3.csproj",
       "projectName": "method 2 task 3",
-      "projectPath": "C:\\Users\\fuad\\Desktop\\methods task 2\\methods2.1\\method 2 task 3\\method 2 task 3.csproj",
+      "projectPath": "C:\\Users\\fuad\\Desktop\\methods\\methods task 2\\methods2.1\\method 2 task 3\\method 2 task 3.csproj",
       "packagesPath": "C:\\Users\\fuad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fuad\\Desktop\\methods task 2\\methods2.1\\method 2 task 3\\obj\\",
+      "outputPath": "C:\\Users\\fuad\\Desktop\\methods\\methods task 2\\methods2.1\\method 2 task 3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
