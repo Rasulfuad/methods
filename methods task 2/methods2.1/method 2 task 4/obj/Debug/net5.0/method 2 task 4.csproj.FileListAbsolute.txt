@@ -1,0 +1,16 @@
+F:\methods task 2\methods2.1\method 2 task 4\bin\Debug\net5.0\method 2 task 4.exe
+F:\methods task 2\methods2.1\method 2 task 4\bin\Debug\net5.0\method 2 task 4.deps.json
+F:\methods task 2\methods2.1\method 2 task 4\bin\Debug\net5.0\method 2 task 4.runtimeconfig.json
+F:\methods task 2\methods2.1\method 2 task 4\bin\Debug\net5.0\method 2 task 4.runtimeconfig.dev.json
+F:\methods task 2\methods2.1\method 2 task 4\bin\Debug\net5.0\method 2 task 4.dll
+F:\methods task 2\methods2.1\method 2 task 4\bin\Debug\net5.0\method 2 task 4.pdb
+F:\methods task 2\methods2.1\method 2 task 4\obj\Debug\net5.0\method 2 task 4.csproj.AssemblyReference.cache
+F:\methods task 2\methods2.1\method 2 task 4\obj\Debug\net5.0\method 2 task 4.GeneratedMSBuildEditorConfig.editorconfig
+F:\methods task 2\methods2.1\method 2 task 4\obj\Debug\net5.0\method 2 task 4.AssemblyInfoInputs.cache
+F:\methods task 2\methods2.1\method 2 task 4\obj\Debug\net5.0\method 2 task 4.AssemblyInfo.cs
+F:\methods task 2\methods2.1\method 2 task 4\obj\Debug\net5.0\method 2 task 4.csproj.CoreCompileInputs.cache
+F:\methods task 2\methods2.1\method 2 task 4\obj\Debug\net5.0\method 2 task 4.dll
+F:\methods task 2\methods2.1\method 2 task 4\obj\Debug\net5.0\refint\method 2 task 4.dll
+F:\methods task 2\methods2.1\method 2 task 4\obj\Debug\net5.0\method 2 task 4.pdb
+F:\methods task 2\methods2.1\method 2 task 4\obj\Debug\net5.0\method 2 task 4.genruntimeconfig.cache
+F:\methods task 2\methods2.1\method 2 task 4\obj\Debug\net5.0\ref\method 2 task 4.dll
